@@ -7,7 +7,7 @@
 | Ashutosh Routray    | PES2UG20CS072 |
 | C V Eswar Sai Reddy | PES2UG20CS096 |
 
-##### We are using Reinforcement learning to train an agent to play a game. 
+##### Reinforcement learning is used through three models or algorithms: Q learning, DQN and PPO to train an agent to play a game. 
 
 ##### The game environments are taken from OpenAI Gym. 
 
